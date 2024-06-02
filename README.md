@@ -1,1 +1,1 @@
-# btobet_gp_playright-framework
+# btobet_gp_playwright-framework
